@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Automatic Item Analysis with Data Banking System/1.0.0": {
+        "runtime": {
+          "Automatic Item Analysis with Data Banking System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automatic Item Analysis with Data Banking System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

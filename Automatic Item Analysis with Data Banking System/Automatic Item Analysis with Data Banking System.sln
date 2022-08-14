@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automatic Item Analysis with Data Banking System", "Automatic Item Analysis with Data Banking System\Automatic Item Analysis with Data Banking System.csproj", "{423A495B-91BC-4BCB-802D-9EB9ADBC149F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423A495B-91BC-4BCB-802D-9EB9ADBC149F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423A495B-91BC-4BCB-802D-9EB9ADBC149F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423A495B-91BC-4BCB-802D-9EB9ADBC149F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423A495B-91BC-4BCB-802D-9EB9ADBC149F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E7627B-6937-4362-AF5A-F4B98E31EB39}
+	EndGlobalSection
+EndGlobal
